@@ -81,11 +81,11 @@
     "convict": "^6.1.0",
     "dotenv": "^10.0.0",
     "fast-crc32c": "^2.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.13.1",
     "koa-helmet": "^6.1.0",
     "koa-json-body": "^5.3.0",
-    "koa-jwt": "^4.0.1",
+    "koa-jwt": "^4.0.4",
     "koa-logger": "^3.2.1",
     "mozlog": "^3.0.2",
     "node-fetch": "^2.6.1"
